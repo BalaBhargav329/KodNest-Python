@@ -7,6 +7,7 @@ print("Thank you for learning python")
 name = "Balu"
 print("Name:\t", name)
 
+
 # To find wheather number (n) is even or odd
 """START
 INPUT n
@@ -21,6 +22,7 @@ if n%2 == 0:
     print("Even")
 else:
     print("odd")
+
 
 # To find the number is pos, neg or zero
 """START

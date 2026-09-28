@@ -22,3 +22,4 @@ print(x, y, z)
 print(x + a) # 110
 print(x * y) # 10000
 
+
