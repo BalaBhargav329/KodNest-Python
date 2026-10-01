@@ -21,6 +21,8 @@ print(s[4:-2:-1]) #
 
 
 
+
+
 s = "Programming"
 print(s[0:5]) #progr
 
@@ -115,10 +117,5 @@ print(s[7 :- 8 :- 1]) #HGFED
 
 
 s = "DataScience"
-print(s[-1:1 :- 2])
-
-
-
-
-
+print(s[-1:1 :- 2]) #eniSt
 

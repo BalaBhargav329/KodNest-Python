@@ -1,6 +1,6 @@
 str = 'hello'
 print(str)
-
+ 
 str1 = "hello"
 print(str1)
 
@@ -22,3 +22,5 @@ b = "world"
 c = a + " " + b
 print(c)
 
+str = "Python Developer"
+print("Python" in str) #true
