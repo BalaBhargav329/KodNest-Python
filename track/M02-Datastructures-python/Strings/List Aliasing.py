@@ -2,7 +2,7 @@
 marks = [72, 81, 60]
 student_marks = marks
 student_marks[0] = 100
-print(student_marks)
+print(student_marks) # [100, 81, 60]
 print(marks) # [100, 81, 60]
 
 
